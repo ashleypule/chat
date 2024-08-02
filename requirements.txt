@@ -2,4 +2,4 @@ streamlit
 python-dotenv
 pillow
 google-generativeai
-
+groq
